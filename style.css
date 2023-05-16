@@ -3,4 +3,15 @@ body{
 }
 .titulo{
     font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+}
+.parrafo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: antiquewhite;
+}
+.lista{
+    margin-left: auto;
+    margin-left: auto;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
